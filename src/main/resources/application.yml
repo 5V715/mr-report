@@ -1,0 +1,7 @@
+gitlab:
+  apiKey: ${API_KEY:}
+  uri: ${URI:}
+  projectIds : ${PIDS:}
+logging:
+  level:
+    org.springframework.web.reactive.function.client.ExchangeFunctions: DEBUG
