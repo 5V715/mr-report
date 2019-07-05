@@ -1,0 +1,4 @@
+gitlab:
+  apiKey: somekey
+  uri: someuri
+  projectIds : 123
